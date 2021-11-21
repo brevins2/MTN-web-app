@@ -1,0 +1,42 @@
+//Code from new for delete
+            /*String connectionString = System.Configuration.ConfigurationManager.
+                ConnectionStrings["MtnAppConnString"].ToString();
+            SqlConnection conn2;
+            SqlCommand command;
+            String sql, Output="";
+
+            conn2 = new SqlConnection(connectionString);
+            conn2.Open();
+
+            sql = "delete from client where RegNo='" + a.Text +"'";
+
+            command = new SqlCommand(sql, conn2);
+
+            command.ExecuteNonQuery();
+            conn2.Close();*/
+
+// from master
+     /*protected void Button1_Click(object sender, EventArgs e)
+        {
+            displaydata();
+        }
+        private void displaydata()
+        {
+            String ConnString =
+           System.Configuration.ConfigurationManager.ConnectionStrings["MtnAppConnString"].
+           ToString();
+            
+            conn = new MySqlConnection(ConnString);
+             conn.Open();
+             queryStr = "";
+             queryStr = "select * from client";
+
+             cmd = new MySqlCommand(queryStr, conn);
+             cmd.ExecuteNonQuery();
+             DataTable dt = new DataTable();
+             MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+             da.Fill(dt);
+             GridView1.DataSource = dt;
+             GridView1.DataBind();
+             conn.Close();
+        }*/

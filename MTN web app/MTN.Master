@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MTN.Master.cs" Inherits="MTN_web_app.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 421px;
+        }
+        .auto-style3 {
+            text-align: center;
+            color: #FFFF00;
+        }
+        .auto-style4 {}
+        .auto-style5 {
+            width: 927px;
+            height: 258px;
+        }
+    </style>
+</head>
+<body style="text-align: center; margin: 0px 100px 100px 150px;">
+    <form id="form1" runat="server">
+    
+        <table class="auto-style1">
+            <tr>
+                <td colspan="2">
+                    <img alt="" class="auto-style5" src="image/Image-9660.jpg" /></td>
+            </tr>
+            <tr>
+                <td class="auto-style3" colspan="2">MTN UGANDA</td>
+            </tr>
+            <tr>
+                <td colspan="2">Home | Contact us | About us | Client</td>
+            </tr>
+            <tr>
+                <td colspan="2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="text-align: left">Lab</td>
+                <td class="auto-style4" rowspan="3"> 
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+    
+        <div> 
+    </div>
+    </form>
+</body>
+</html>

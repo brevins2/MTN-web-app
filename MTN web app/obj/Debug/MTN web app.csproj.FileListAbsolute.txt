@@ -1,0 +1,6 @@
+C:\Users\brevin\Desktop\mtn web application\MTN web app\MTN web app\bin\MTN web app.dll.config
+C:\Users\brevin\Desktop\mtn web application\MTN web app\MTN web app\bin\MTN web app.dll
+C:\Users\brevin\Desktop\mtn web application\MTN web app\MTN web app\bin\MTN web app.pdb
+C:\Users\brevin\Desktop\mtn web application\MTN web app\MTN web app\obj\Debug\MTN web app.dll
+C:\Users\brevin\Desktop\mtn web application\MTN web app\MTN web app\obj\Debug\MTN web app.pdb
+C:\Users\brevin\Desktop\mtn web application\MTN web app\MTN web app\obj\Debug\MTN web app.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\brevin\Desktop\mtn web application\MTN web app\MTN web app\obj\Release\MTN web app.csproj.AssemblyReference.cache
+C:\Users\brevin\Desktop\mtn web application\MTN web app\MTN web app\obj\Release\MTN web app.csproj.CoreCompileInputs.cache
